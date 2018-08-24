@@ -5,4 +5,4 @@ jobs:
       - image: circleci/node:latest-browsers
     steps:
       - checkout
-      - run: echo "hello (again) world!!!!!!!!!!!!!!!"
+      - run: test
