@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No test specified! (again and again)\" && exit 0"
+    "test": "echo \"No test specified! (again and again and again)\" && exit 0"
   },
   "repository": {
     "type": "git",
